@@ -1,0 +1,11 @@
+{
+    "name": "SocialPanda",
+    "website": "http://www.socialpanda.app/",
+    "description": "Social Panda is the free, social-to-earn network for community wherein users and content creators earn cryptocurrency",
+    "explorer": "https://bscscan.com/token/0x46348eb2fed3077132546936a5a6f76c5453ad8c",
+    "type": "BEP20",
+    "symbol": "P4NDA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF481FeBE47B4fea5CDdf3286eCA73E3cBBa96f51"
+   }
